@@ -1,0 +1,22 @@
+valor = int(input(' Digite um número para sua tabuada: '))
+
+primeiro = valor * 1
+print('{} X 1 = {}'.format(primeiro, valor))
+segundo = valor * 2
+print('{} X 2 = {}'.format(segundo, valor))
+terçeiro = valor * 3
+print('{} X 3 = {}'.format(terçeiro, valor))
+quarto = valor * 4
+print('{} X 4 = {}'.format(quarto, valor))
+quinto = valor * 5
+print('{} X 5 = {}'.format(quinto, valor))
+sexto = valor * 6
+print('{} X 6 = {}'.format(sexto, valor))
+setemo = valor * 7
+print('{} X 7 = {}'.format(setemo, valor))
+oitavo = valor * 8
+print('{} X 8 = {}'.format(oitavo, valor))
+nono = valor * 9
+print('{} X 9 = {}'.format(nono, valor))
+decemo = valor * 10
+print('{} X 10 = {}'.format(decemo, valor))
