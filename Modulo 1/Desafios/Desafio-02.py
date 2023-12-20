@@ -1,4 +1,4 @@
-Dia = input('Dia = ')
-Mês = input('Mês = ')
-Ano = input('Ano = ')
-print('Você nasceu no dia ',Dia,'de',Mês,'de',Ano,'.','Correto ?')
+dia = input('Dia = ')
+mes = input('Mes = ')
+ano = input('Ano = ')
+print('Você nasceu no dia', dia, 'de', mes, 'de', ano, '. Correto?')
